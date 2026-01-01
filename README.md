@@ -328,7 +328,7 @@ After building:
 ║                                                                               ║
 ║  ⚠️  THIS PROJECT IS INTENTIONALLY NON-FUNCTIONAL  ⚠️                        ║
 ║                                                                               ║
-║  This repository has been deliberately de-weaponized to prevent misuse:      ║
+║  This repository has been deliberately de-weaponized to prevent misuse:       ║
 ║  • No pre-built binaries are provided                                         ║
 ║  • No automated build scripts are included                                    ║
 ║  • All features are disabled by default                                       ║
@@ -336,8 +336,8 @@ After building:
 ║  • Persistence mechanisms are removed                                         ║
 ║  • Compilation requires explicit acknowledgment                               ║
 ║                                                                               ║
-║  This software is provided for EDUCATIONAL and AUTHORIZED TESTING purposes   ║
-║  ONLY. The authors are not responsible for any misuse or damage caused.      ║
+║  This software is provided for EDUCATIONAL and AUTHORIZED TESTING purposes    ║
+║  ONLY. The authors are not responsible for any misuse or damage caused.       ║
 ║                                                                               ║
 ║  BEFORE ANY USE, you MUST have:                                               ║
 ║  • Written authorization from the system owner                                ║
