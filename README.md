@@ -8,7 +8,7 @@
 
 ---
 
-# 🔐 Advanced C++ Keylogger with Telegram Integration
+# 🔐 Advanced C++ Keylogger
 
 > ⚠️ **INTENTIONALLY NON-FUNCTIONAL**: This repository has been deliberately de-weaponized. All features are disabled by default, network functionality is blocked, and persistence mechanisms are removed. This project exists **ONLY** for educational code analysis and security research.
 
