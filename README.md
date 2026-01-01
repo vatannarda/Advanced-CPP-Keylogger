@@ -1,8 +1,8 @@
 <div align="center">
 
-[![⚠️ YASAL UYARI / LEGAL DISCLAIMER ⚠️](https://img.shields.io/badge/⚠️_YASAL_UYARI_/_LEGAL_DISCLAIMER-OKUMAK_ZORUNLUDUR-red?style=for-the-badge&labelColor=darkred)](./LegalDisclaimer.md)
+[![⚠️ LEGAL DISCLAIMER ⚠️](https://img.shields.io/badge/⚠️_LEGAL_DISCLAIMER-MANDATED_TO_READ-red?style=for-the-badge&labelColor=darkred)](./LegalDisclaimer.md)
 
-**[📜 Devam etmeden önce Yasal Uyarıyı OKUYUN / READ Legal Disclaimer before proceeding 📜](./LegalDisclaimer.md)**
+**[📜Read Legal Disclaimer before proceeding 📜](./LegalDisclaimer.md)**
 
 </div>
 
@@ -12,9 +12,9 @@
 
 > ⚠️ **INTENTIONALLY NON-FUNCTIONAL**: This repository has been deliberately de-weaponized. All features are disabled by default, network functionality is blocked, and persistence mechanisms are removed. This project exists **ONLY** for educational code analysis and security research.
 
-A sophisticated, feature-rich keylogger written in C++ with Telegram C2 (Command & Control) integration. Designed for educational purposes and authorized security testing only.
-
 > ⚠️ **DISCLAIMER**: This software is intended for educational purposes and authorized penetration testing only. Unauthorized use of this software is illegal and unethical. Always obtain proper authorization before testing.
+
+A sophisticated, feature-rich keylogger written in C++ with Telegram C2 (Command & Control) integration. Designed for educational purposes and authorized security testing only.
 
 ---
 
