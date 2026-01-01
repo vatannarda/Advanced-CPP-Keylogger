@@ -1,0 +1,20 @@
+# Exe ve Binaryler
+*.exe
+*.dll
+*.obj
+*.o
+
+# Gecici klasorler
+mstemp_*
+temp/
+
+# IDE dosyalari
+.vscode/
+.vs/
+*.suo
+*.user
+.env
+
+# Cache
+__pycache__/
+*.log
